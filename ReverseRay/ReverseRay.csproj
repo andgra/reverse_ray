@@ -8,8 +8,8 @@
     <ProjectGuid>{97210AF1-65B1-4C65-A7B0-408E7AED58A9}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Ultrasound</RootNamespace>
-    <AssemblyName>Ultrasound</AssemblyName>
+    <RootNamespace>ReverseRay</RootNamespace>
+    <AssemblyName>ReverseRay</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
